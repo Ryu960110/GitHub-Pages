@@ -1,4 +1,4 @@
-# Bucket list #1: Travel across the world!
+
 
 # 1. APAC
 ## Asia
