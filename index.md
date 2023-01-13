@@ -1,4 +1,4 @@
-Bucket list #1: Travel across the world!
+# Bucket list #1: Travel across the world!
 
 # 1. APAC
 ## Asia
@@ -14,6 +14,7 @@ Bucket list #1: Travel across the world!
 - [ ] Italy
 - [ ] Portugal
 - [ ] ...
+
 ### EU Candidates
 ### Potential EU Candidates 
 ### Non-EU
